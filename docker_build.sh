@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t my-python-app .
+docker build -t nneves-python-httpserver:1.0.0 .
